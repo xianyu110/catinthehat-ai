@@ -1,13 +1,13 @@
-# Cat in the Hat AI
+# PorchWave AI
 
 <p align="center">
   <a href="https://catinthehat.cc">
-    <img src="assets/og.jpg" alt="Cat in the Hat AI" width="420" />
+    <img src="assets/og.jpg" alt="PorchWave AI" width="420" />
   </a>
 </p>
 
 <p align="center">
-  <strong>1 photo → ~10s doorbell-cam Halloween Cat in the Hat AI prank short</strong>
+  <strong>1 photo → ~10s doorbell-cam Halloween PorchWave AI prank short</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://xianyu110.github.io/catinthehat-ai/"><img src="https://img.shields.io/badge/Pages-landing-2ea44f?style=for-the-badge" alt="Pages" /></a>
 </p>
 
-Independent fan / Halloween joke tool. **Not a real sighting.** Not affiliated with original meme creators or Dr. Seuss / Cat in the Hat rights holders.
+Independent fan / Halloween joke tool. **Not a real sighting.** Not affiliated with original meme creators or any third-party brand / PorchWave rights holders.
 
 ## Links
 
@@ -50,4 +50,4 @@ Upload one photo (porch, window, room, or selfie) → get a doorbell-camera Hall
 
 ## Disclaimer
 
-Independent fan / Halloween joke tool on https://catinthehat.cc. Not a real sighting. Not affiliated with original meme creators or Dr. Seuss / Cat in the Hat rights holders. Page uses abstract CSS silhouettes only.
+Independent fan / Halloween joke tool on https://catinthehat.cc. Not a real sighting. Not affiliated with original meme creators or any third-party brand / PorchWave rights holders. Page uses abstract CSS silhouettes only.

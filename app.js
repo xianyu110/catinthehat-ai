@@ -1,4 +1,4 @@
-/* ViralLab — Cat in the Hat LP interactions */
+/* ViralLab — PorchWave LP interactions */
 (function () {
   "use strict";
 
